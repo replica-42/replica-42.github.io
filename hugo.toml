@@ -6,6 +6,8 @@ title = "幻想图书馆"
 copyright = "replica42"
 hasCJKLanguage = true
 enableRobotsTXT = true
+disqusShortname = "replica-42-github-io"
+
 
 [markup]
 [markup.highlight]
