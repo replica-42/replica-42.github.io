@@ -4,6 +4,7 @@ date: 2022-08-23T16:54:52+08:00
 description: "一封 monolith 写给 jrpg 爱好者的情书"
 categories:
   - "游戏"
+  - "异度神剑"
 ---
 
 ## 前言
