@@ -3,7 +3,6 @@ title: "2024 七月回忆"
 date: 2024-07-27T16:39:32+08:00
 description: "社畜的无聊生活"
 categories:
-categories:
   - "杂谈"
   - "月度总结"
 ---

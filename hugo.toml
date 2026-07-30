@@ -1,7 +1,7 @@
 author = "replica42"
 baseURL = "https://replica-42.github.io"
 defaultContentLanguage = "cn"
-languageCode = "zh-CN"
+locale = "zh-CN"
 title = "幻想图书馆"
 copyright = "replica42"
 hasCJKLanguage = true
@@ -14,7 +14,7 @@ disqusShortname = "replica-42-github-io"
 style = "monokailight"
 
 [permalinks]
-posts = "/:year/:month/:filename/"
+posts = "/:year/:month/:contentbasename/"
 
 [params]
 description = "雖然不知道爲什麽，不過似乎任何人都拼命想對某個人或對這個世界傾訴一些事情。"
